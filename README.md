@@ -3,7 +3,6 @@
 ## Kullanılan Teknolojiler
 - **Java:** Programlama dili olarak kullanılmıştır.
 - **Spring Boot:** Uygulama çatısı olarak tercih edilmiştir.
-- **Hibernate/JPA:** Veritabanı işlemleri için ORM kullanılmıştır.
 - **H2:** Geliştirme ve test aşamaları için hafif bellek içi veritabanı olarak kullanılmıştır.
 - **Maven:** Proje yönetimi ve bağımlılık yönetimi için kullanılmıştır.
 
@@ -17,9 +16,9 @@
 
 ## Repository:
 - **OrderRepository:** Siparişler için veritabanı işlemleri.
-- **OrderItemRepository:** Sipariş kalemleri için veritabanı işlemleri.
+- **OrderItemRepository:** Sipariş için veritabanı işlemleri.
 - **ProductRepository:** Ürünler için veritabanı işlemleri.
-- **OrderItemPriceRepository:** Sipariş kalemi fiyatları için veritabanı işlemleri.
+- **OrderItemPriceRepository:** Sipariş fiyatları için veritabanı işlemleri.
 - **CartRepository:** Sepetler için veritabanı işlemleri.
 - **CustomerRepository:** Müşteriler için veritabanı işlemleri.
 
