@@ -27,13 +27,22 @@ Cart - Sepeti temsil eden sınıf.
 
 CartItem - Sepet öğelerini temsil eden sınıf.
 
+
+
 Repository:
+
 OrderRepository - Siparişler için veritabanı işlemleri.
+
 OrderItemRepository - Sipariş kalemleri için veritabanı işlemleri.
+
 ProductRepository - Ürünler için veritabanı işlemleri.
+
 OrderItemPriceRepository - Sipariş kalemi fiyatları için veritabanı işlemleri.
+
 CartRepository - Sepetler için veritabanı işlemleri.
+
 CustomerRepository - Müşteriler için veritabanı işlemleri.
+
 
 
 
@@ -57,6 +66,7 @@ CartController - Sepetlerle ilgili REST API uç noktalarını yöneten sınıf.
 CustomerController - Müşterilerle ilgili REST API uç noktalarını yöneten sınıf.
 
 ProductController - Ürünlerle ilgili REST API uç noktalarını yöneten sınıf.
+
 
 
 
