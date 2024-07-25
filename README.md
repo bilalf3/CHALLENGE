@@ -1,4 +1,5 @@
 # Main dosyası 'Soru5againApplication' sprinbootapp olarak çalıştırıp uygulamayı test edebilirsiniz.
+## Eğer proje başlatmada sorun yaşanırsa demo adında klasör açıp proje dosyalarını içine kopyalayıp , kopyaladığımız dosyayı IDE tarafından kullanabilirsiniz. 
 
 ## Kullanılan Teknolojiler
 - **Java:** Programlama dili olarak kullanılmıştır.
