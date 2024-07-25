@@ -82,7 +82,7 @@ API Kullanımı: API uç noktaları, sipariş oluşturma, güncelleme, silme ve 
 
 
 
-
+'''
 Proje Ağacı
 src
 └── main
@@ -118,4 +118,4 @@ src
         └── static
         └── templates
 
-        
+'''
