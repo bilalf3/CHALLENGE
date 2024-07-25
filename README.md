@@ -76,7 +76,7 @@ Uygulamanın Başlatılması: Proje, Spring Boot uygulaması olarak başlatılı
 
 H2 Veritabanı Yapılandırması: H2 veritabanı, application.properties dosyasında yapılandırılmıştır. Veritabanı bağlantı bilgileri ve konsol erişimi burada belirlenmiştir.
 
-H2 Konsolu Kullanımı: Veritabanı yapılarını ve verileri incelemek için H2 Konsolu kullanılabilir. Konsola erişim http://localhost:8080/h2-console adresinden sağlanır. Varsayılan URL jdbc:h2:mem:testdb, kullanıcı adı sa, şifre ise boş bırakılabilir.
+H2 Konsolu Kullanımı: Veritabanı yapılarını ve verileri incelemek için H2 Konsolu kullanılabilir. Konsola erişim http://localhost:8080/h2-console adresinden sağlanır. Varsayılan URL jdbc:h2:mem:testdb, kullanıcı adı sa, şifre: password
 
 API Kullanımı: API uç noktaları, sipariş oluşturma, güncelleme, silme ve getirme işlemleri için kullanılabilir.
 
