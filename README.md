@@ -2,10 +2,15 @@
 Main dosyası 'Soru5againApplication' sprinbootapp olarak çalıştırıp uygulamayı test edebilirsiniz.
 
 Kullanılan Teknolojiler
+
 Java: Programlama dili olarak kullanılmıştır.
+
 Spring Boot: Uygulama çatısı olarak tercih edilmiştir.
+
 Hibernate/JPA: Veritabanı işlemleri için ORM kullanılmıştır.
+
 H2: Geliştirme ve test aşamaları için hafif bellek içi veritabanı olarak kullanılmıştır.
+
 Maven: Proje yönetimi ve bağımlılık yönetimi için kullanılmıştır.
 
 Model:
